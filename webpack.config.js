@@ -45,7 +45,7 @@ module.exports = {
         require('autoprefixer')
     ],
     devServer:{
-        contentBase: "./build",
+        contentBase: __dirname,
         colors:true,
         historyApiFallback:true,
         inline:true,
