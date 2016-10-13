@@ -6,6 +6,10 @@
   "scripts": {
     "start": "webpack && webpack-dev-server"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oangy/dang-resume.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
