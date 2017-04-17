@@ -1,6 +1,5 @@
 # my-resume
 
-> [demo](https://oangy.github.io/dang-resume/build/index.html)
 
 ## Build Setup
 
