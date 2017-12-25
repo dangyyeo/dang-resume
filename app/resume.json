@@ -24,22 +24,22 @@
 	    {
 	    	"github": "",
 	    	"icon":"fa fa-github",
-	  		"url":"https://github.com/oangy",
-	  		"urlText":"https://github.com/oangy"
+	  		"url":"https://github.com/***",
+	  		"urlText":"https://github.com/***"
 	    }
 	],
 	"education": [{
 	    "type": "本科",
-	    "name": "郑州轻工业学院",
-	    "major": "计算机科学与技术",
+	    "name": "郑***",
+	    "major": "****",
 	    "start": "2009",
 	    "end": "2013"
   		},{
 	    "type": "硕士",
-	    "name": "华东师范大学",
-	    "major": "软件工程",
-	    "start": "2014",
-	    "end": "2017"
+	    "name": "华***大学",
+	    "major": "软**",
+	    "start": "20**",
+	    "end": "20**"
   		}
   	],
   	"experience":[
